@@ -2,6 +2,7 @@
 
 - i made this with a package termcolor which doesn't work on the compiled console (at least through using Pyinstaller) or in pycharm (i prolly didn't configure something right)
 - - if i could go back (I could but I dont want to, maybe i'll automate it as a challange) I would take out all the termcolor module functions and whatnot
+- however it did work in repl.it IDE which is what I coded this on
 
 ## Notes and inspiration
 
