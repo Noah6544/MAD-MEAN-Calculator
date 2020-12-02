@@ -1,3 +1,10 @@
+# Warning
+
+- i made this with a package termcolor which doesn't work on the compiled console (at least through using Pyinstaller) or in pycharm (i prolly didn't configure something right)
+- - if i could go back (I could but I dont want to, maybe i'll automate it as a challange) I would take out all the termcolor module functions and whatnot
+
+## Notes and inspiration
+
 - i made this because I didn't want to have to do MAD calculation in class. yes that's 8th/9th grade math(idk which). yes. i was 13.
 - lookin back i'm pretty proud of this cuz it was something i coded that actually automated something in my life.
 - im suprised this was 300+ lines. im not a concise coder. maybe ill try to fix that later. 
